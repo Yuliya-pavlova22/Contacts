@@ -1,0 +1,125 @@
+дшые
+list
+org ShowItem=Organization name: asca
+Address: asdc23
+Number: [no number]
+Time created: 2023-02-05T17:01
+Time last edit: 2023-02-05T17:01
+list
+list
+add
+isPersonal=true
+name=Jon surName=Smit lbirth= gender=[no data]
+add
+isPersonal=true
+name=Jon surName=Smit lbirth= gender=[no data]
+add
+isPersonal=false
+name=Pizza Shop surName=asdkjf 23
+list
+list
+count
+list
+org ShowItem=Organization name: Pizza Shop
+Address: asdkjf 23
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-05T20:17
+Time last edit: 2023-02-05T20:17
+list
+add
+isPersonal=true
+name=KOHJM surName=lJKHB lbirth=12.12.1222 gender=F
+list
+kist
+list
+list
+list
+list
+add
+isPersonal=false
+list
+add
+isPersonal=false
+name=pizzawkjvdbk surName=ksdjhbc34
+org ShowItem=Organization name: pizzawkjvdbk
+Address: ksdjhbc34
+Number: 123 123 123
+Time created: 2023-02-06T13:21
+Time last edit: 2023-02-06T13:21
+add
+isPersonal=false
+name=pizzawaei[erpg surName=awef23
+org ShowItem=Organization name: pizzawaei[erpg
+Address: awef23
+Number: 12345
+Time created: 2023-02-06T13:21
+Time last edit: 2023-02-06T13:21
+search
+list
+add
+isPersonal=true
+name=waqef surName=awf lbirth=awf gender=[no data]
+list
+list
+add
+isPersonal=true
+name=wasv surName=waev lbirth=svd gender=[no data]
+list
+list
+add
+isPersonal=false
+name=awsebg surName=wsegdrbf
+org ShowItem=Organization name: awsebg
+Address: wsegdrbf
+Number: 234
+Time created: 2023-02-06T13:28
+Time last edit: 2023-02-06T13:28
+list
+list
+add
+isPersonal=false
+name=asc surName=werhjmhgfd
+org ShowItem=Organization name: asc
+Address: werhjmhgfd
+Number: 23456
+Time created: 2023-02-06T15:35
+Time last edit: 2023-02-06T15:35
+list
+list
+add
+isPersonal=true
+name=`awezsrdxfgh surName=waersegdrtfg lbirth=12345 gender=m
+list
+list
+add
+isPersonal=false
+name=MOL surName=LKJH89
+org ShowItem=Organization name: MOL
+Address: LKJH89
+Number: 456789
+Time created: 2023-02-06T15:39
+Time last edit: 2023-02-06T15:39
+add
+isPersonal=false
+name=LOOOM moll surName=asdfgnfvdc
+org ShowItem=Organization name: LOOOM moll
+Address: asdfgnfvdc
+Number: 12345
+Time created: 2023-02-06T15:40
+Time last edit: 2023-02-06T15:40
+list
+add
+isPersonal=false
+name=MKKOL surName=1234tgfd
+org ShowItem=Organization name: MKKOL
+Address: 1234tgfd
+Number: 3456
+Time created: 2023-02-06T15:44
+Time last edit: 2023-02-06T15:44
+list
+add
+isPersonal=true
+name=awsefdgbfvc surName=asfdg lbirth=2345 gender=[no data]
+add
+isPersonal=true
+name=asdfg surName=qwaefesd lbirth=awefs gender=[no data]

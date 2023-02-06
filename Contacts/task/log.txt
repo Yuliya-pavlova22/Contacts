@@ -1,0 +1,408 @@
+exit
+count
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+count
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+list
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:39
+Time last edit: 2023-02-06T18:39
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:39
+Time last edit: 2023-02-06T18:39
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+list
+list
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:39
+Time last edit: 2023-02-06T18:39
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:39
+Time last edit: 2023-02-06T18:39
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:39
+Time last edit: 2023-02-06T18:39
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:39
+Time last edit: 2023-02-06T18:39
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:42
+Time last edit: 2023-02-06T18:42
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:42
+Time last edit: 2023-02-06T18:42
+search
+search=pizz
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:42
+Time last edit: 2023-02-06T18:42
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:42
+Time last edit: 2023-02-06T18:42
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:42
+Time last edit: 2023-02-06T18:42
+search
+search=s
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:42
+Time last edit: 2023-02-06T18:42
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:43
+Time last edit: 2023-02-06T18:43
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-781-9999
+Time created: 2023-02-06T18:43
+Time last edit: 2023-02-06T18:43
+search
+search=789
+exit
+exit
+count
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+count
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+list
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+list
+list
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+search
+search=pizz
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+search
+search=s
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-781-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+search
+search=789
+exit
+exit
+count
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+count
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+list
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+list
+list
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+list
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St 2
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+search
+search=pizz
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+search
+search=s
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+exit
+add
+isPersonal=false
+name=Pizza Shop surName=Wall St. 1
+org ShowItem=Organization name: Pizza Shop
+Address: Wall St. 1
+Number: +0 (123) 456-789-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+add
+isPersonal=true
+name=John surName=Smith lbirth= gender=[no data]
+add
+isPersonal=false
+name=PizzaNuts surName=Wall St. 6
+org ShowItem=Organization name: PizzaNuts
+Address: Wall St. 6
+Number: +0 (123) 456-781-9999
+Time created: 2023-02-06T18:58
+Time last edit: 2023-02-06T18:58
+search
+search=789
+exit
